@@ -2,6 +2,8 @@
 
 A simple js game or a social app I don't even know
 
+Coming soon...
+
 ## Concept
 
 The player will begin with 100 $ 
